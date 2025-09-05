@@ -33,7 +33,7 @@ I’m a data scientist and aspiring ML/AI engineer passionate about **machine le
 ---
 
 ## 🛠️ Skills & Tooling
-- **Languages:** Python, SQL  
+- **Languages:** Python, R, SQL  
 - **ML Modeling:** scikit-learn (Ridge, ElasticNet, SVM, LDA, ensembles), LightGBM, XGBoost  
 - **Optimization & Tuning:** Optuna, CVXPY  
 - **Interpretability & Fairness:** SHAP, fairness-aware modeling  
@@ -42,7 +42,7 @@ I’m a data scientist and aspiring ML/AI engineer passionate about **machine le
 - **Visualization:** Matplotlib, Seaborn  
 - **LLM & AI Frameworks:** LangChain, OpenAI APIs, Hugging Face  
 - **Workflow & Documentation:** Git/GitHub, Jupyter, Quarto  
-- **Deployment & Apps:** Streamlit, FastAPI  
+- **Deployment & Apps:** Streamlit
 
 ---
 
