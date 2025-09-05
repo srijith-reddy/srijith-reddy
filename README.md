@@ -6,7 +6,7 @@
 
 ---
 
-I’m a data scientist and aspiring ML/AI engineer passionate about **machine learning for finance, AI agents, and generative intelligence**.  
+I’m a data scientist and aspiring ML/AI engineer passionate about **AI agents and generative intelligence**.
 
 ---
 
