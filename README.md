@@ -12,23 +12,34 @@ I’m a data scientist and aspiring ML/AI engineer passionate about **AI agents 
 
 ## 🚀 Flagship Projects
 
+### 🧠 MIRA — Machine Intelligent Responsive Assistant *(Private Build)*
+**MIRA** is a fully modular, voice-enabled **AI assistant** built for **real-time, multi-agent orchestration** and contextual reasoning.  
+
+Developed using **LangChain** and **LangGraph**, it coordinates intelligent agents for complex, multi-step automation such as:  
+- 🗓️ **CalendarAgent** – schedules and retrieves events  
+- 📧 **GmailAgent** – reads, summarizes, and drafts contextual emails  
+- 🌦️ **WeatherAgent** – provides detailed, location-aware forecasts  
+- 🎟️ **BookingAgent** – automates ticket and flight searches  
+- 🌐 **BrowserAgent** & **BrowserWorker** – perform trust-ranked live web scraping and intelligent browsing  
+- 🎵 **MusicAgent** & **MusicWorker** – enable autonomous music playback with async background control  
+- 🛍️ **BuyingAgent** – executes product lookups and shopping flows  
+- 💬 **WhatsAppAgent** – retrieves and sends contextual messages  
+
+Includes **wake-word activation (“Hey Mira”)**, **Cartesia TTS**, **Whisper STT**, and a **hybrid FAISS + SQLite memory system** for contextual recall.  
+Features an **async background event loop** and **modular orchestration architecture**, enabling **fully autonomous voice interaction and task execution** — all built from scratch.  
+
 ### 📊 Quant Research Pipeline (Layered Workflow)
-- **6-Layer End-to-End Quant Pipeline** for equity alphas.
-- Ingests **OHLCV, options, fundamentals, and macro data** (via EODHD).
-- Implements **WorldQuant 101 alphas, volatility models, SHAP/IC pruning**.
-- Trains **ElasticNet, Ridge, XGBoost, LightGBM**, with **Optuna hyperparameter tuning**.
-- Integrates **HMM-based regime detection** and **portfolio optimization (CVXPY)**.
+- **6-Layer End-to-End Quant Pipeline** for systematic **equity alpha generation**.  
+- Ingests **OHLCV, options, fundamentals, and macro data** (via EODHD).  
+- Implements **WorldQuant 101 alphas**, volatility models, and **SHAP/IC-based pruning**.  
+- Trains **ElasticNet, Ridge, XGBoost, and LightGBM**, optimized via **Optuna**.  
+- Integrates **HMM regime detection** and **CVXPY portfolio optimization** for allocation strategies.
 
-### 🏠 Housing Price Prediction (Class Competition Winner)
-- Engineered **time-based bins, growth metrics, and location features** for 600k+ rows of property data.
-- Applied **LGBM/XGBoost with Optuna tuning**, achieving a dramatic RMSE improvement (~900K → ~36K).
-- Won **1st place** in a competitive university Kaggle-style challenge.
-- Showcases my ability to **design features, debug pipelines, and optimize models at scale**.
-
-### 🤖 AI Agents & LLM Projects (Growing Portfolio)
-- Building **AI-powered agents** for research, automation, and applied use-cases.
-- Exploring **LangChain, LangGraph, FastAPI, and autonomous workflows**.
-- ⚡️ I’ll be **adding new LLM and AI agent projects regularly**.
+### 🏠 Housing Price Prediction *(Class Competition Winner)*
+- Engineered **time-based bins, growth ratios, and spatial features** on a 600K+ property dataset.  
+- Tuned **LGBM/XGBoost** with **Optuna**, improving RMSE from **900K → 36K**.  
+- Achieved **1st place** in a competitive university Kaggle-style challenge.  
+- Showcases strength in **feature engineering, model optimization, and data scalability**.
 
 ---
 
