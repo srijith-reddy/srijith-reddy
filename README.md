@@ -13,20 +13,32 @@ I’m a data scientist and aspiring ML/AI engineer passionate about **AI agents 
 ## 🚀 Flagship Projects
 
 ### 🧠 MIRA — Machine Intelligent Responsive Assistant *(Private Build)*
+
 **MIRA** is a fully modular, voice-enabled **AI assistant** built for **real-time, multi-agent orchestration** and contextual reasoning.  
 
 Developed using **LangChain** and **LangGraph**, it coordinates intelligent agents for complex, multi-step automation such as:  
-- 🗓️ **CalendarAgent** – schedules and retrieves events  
+
+- 🌐 **BrowserAgent** – performs trust-ranked, multimodal **live web extraction** using persistent Playwright contexts and concurrent scrapers.  
+  Captures full-page screenshots, normalizes numeric text, and summarizes dynamic web data (e.g., scores, headlines, or price movements) using **GPT-4o Vision**.  
+
+- 🗺️ **PlannerAgent** – acts as MIRA’s **contextual lifestyle engine**, discovering nearby or city-specific **restaurants, hikes, concerts, and events**.  
+  Supports geo-aware queries (“near me”, “this weekend”), time-sensitive expansions (“tonight”, “tomorrow”), and GPT-4o synthesis for concise city guides.  
+
+- 🛍️ **BuyingAgent** – specializes in **commerce and finance reasoning**, combining multi-engine search, trust-ranked link filtering, concurrent site scraping,  
+  and multimodal summarization. Autonomously compares **products, deals, and live stock data** using **GPT-4o-based extraction and vision fusion**.  
+
+- 🗓️ **CalendarAgent** – schedules and retrieves upcoming events  
 - 📧 **GmailAgent** – reads, summarizes, and drafts contextual emails  
 - 🌦️ **WeatherAgent** – provides detailed, location-aware forecasts  
-- 🎟️ **BookingAgent** – automates ticket and flight searches  
-- 🌐 **BrowserAgent** & **BrowserWorker** – perform trust-ranked live web scraping and intelligent browsing  
+- 🎟️ **BookingAgent** – automates ticket and flight lookups  
 - 🎵 **MusicAgent** & **MusicWorker** – enable autonomous music playback with async background control  
-- 🛍️ **BuyingAgent** – executes product lookups and shopping flows  
 - 💬 **WhatsAppAgent** – retrieves and sends contextual messages  
 
 Includes **wake-word activation (“Hey Mira”)**, **Cartesia TTS**, **Whisper STT**, and a **hybrid FAISS + SQLite memory system** for contextual recall.  
-Features an **async background event loop** and **modular orchestration architecture**, enabling **fully autonomous voice interaction and task execution** — all built from scratch.  
+Runs on a **persistent async event loop** with **multi-agent orchestration**, **domain-trust scoring**, and **vision-aware summarization** — enabling  
+**fully autonomous perception, reasoning, and task execution**, all built entirely from scratch.  
+
+---
 
 ### 📊 Quant Research Pipeline (Layered Workflow)
 - **6-Layer End-to-End Quant Pipeline** for systematic **equity alpha generation**.  
