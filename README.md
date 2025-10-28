@@ -27,12 +27,12 @@ Developed using **LangChain** and **LangGraph**, it coordinates intelligent agen
 - 🛍️ **BuyingAgent** – specializes in **commerce and finance reasoning**, combining multi-engine search, trust-ranked link filtering, concurrent site scraping,  
   and multimodal summarization. Autonomously compares **products, deals, and live stock data** using **GPT-4o-based extraction and vision fusion**.  
 
-- 🗓️ **CalendarAgent** – schedules and retrieves upcoming events  
+- 🗓️ **CalendarAgent** – schedules upcoming events  
 - 📧 **GmailAgent** – reads, summarizes, and drafts contextual emails  
 - 🌦️ **WeatherAgent** – provides detailed, location-aware forecasts  
 - 🎟️ **BookingAgent** – automates ticket and flight lookups  
 - 🎵 **MusicAgent** & **MusicWorker** – enable autonomous music playback with async background control  
-- 💬 **WhatsAppAgent** – retrieves and sends contextual messages  
+- 💬 **WhatsAppAgent** – sends quick, context-aware messages through persistent browser sessions 
 
 Includes **wake-word activation (“Hey Mira”)**, **Cartesia TTS**, **Whisper STT**, and a **hybrid FAISS + SQLite memory system** for contextual recall.  
 Runs on a **persistent async event loop** with **multi-agent orchestration**, **domain-trust scoring**, and **vision-aware summarization** — enabling  
