@@ -10,7 +10,7 @@ I’m a data scientist and aspiring ML/AI engineer passionate about **AI agents 
 
 ---
 
-## 🚀 Flagship Projects
+## 🚀 Featured Projects
 
 ### 🧠 MIRA — Machine Intelligent Responsive Assistant *(Private Build)*
 
