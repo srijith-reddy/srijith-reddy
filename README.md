@@ -13,6 +13,7 @@ I’m a data scientist and aspiring ML/AI engineer passionate about **AI agents 
 ## 🚀 Featured Projects
 
 ### 🧠 MIRA — Machine Intelligent Responsive Assistant
+(https://medium.com/@shrey.maramreddy/building-mira-my-voice-activated-multimodal-ai-assistant-from-scratch-604448979a1a)
 
 **MIRA** is a fully modular, voice-enabled **AI assistant** built for **real-time, multi-agent orchestration** and contextual reasoning.  
 
