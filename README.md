@@ -50,7 +50,7 @@ Runs on a **persistent async event loop** with **multi-agent orchestration**, **
 
 ### 🏠 Housing Price Prediction *(Class Competition Winner)*
 - Engineered **time-based bins, growth ratios, and spatial features** on a 600K+ property dataset.  
-- Tuned **LGBM/XGBoost** with **Optuna**, improving RMSE from **900K → 36K**.  
+- Tuned **LGBM/XGBoost** with **Optuna**  
 - Achieved **1st place** in a competitive university Kaggle-style challenge.  
 - Showcases strength in **feature engineering, model optimization, and data scalability**.
 
