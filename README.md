@@ -19,17 +19,14 @@ https://medium.com/@shrey.maramreddy/building-mira-my-voice-activated-multimodal
 ---
 
 ## 🛠️ Skills & Tooling
-- **Languages:** Python, R, SQL  
-- **ML Modeling:** scikit-learn (Ridge, ElasticNet, SVM, LDA, ensembles), LightGBM, XGBoost
-- **Deep learning frameworks:** PyTorch
-- **Optimization & Tuning:** Optuna, CVXPY  
-- **Interpretability & Fairness:** SHAP, fairness-aware modeling  
-- **Time Series & Financial Modeling:** OHLCV, options, macro data, forward returns, HMMs  
-- **Data Handling:** pandas, NumPy  
-- **Visualization:** Matplotlib, Seaborn  
-- **LLM & AI Frameworks:** LangChain, LangGraph, OpenAI APIs, Hugging Face  
-- **Workflow & Documentation:** Git/GitHub, Jupyter, Quarto  
-- **Deployment & Apps:** Streamlit
+
+- **Programming & Analysis:** Python, R, SQL, Swift, SAS, Excel, pandas, NumPy
+- **Modeling & Optimization:** Regression (Ridge, Lasso, Elastic Net), Machine Learning (scikit-learn, SVM, LDA, ensembles, LightGBM, XGBoost), Multivariate Analysis, Optuna, CVXPY
+- **Deep Learning:** PyTorch
+- **LLMs & AI Agents:** LangChain, LangGraph, Hugging Face, OpenAI APIs, FastAPI, Streamlit
+- **Financial & Quant Methods:** Statistical & Financial Modeling, Time Series
+- **Visualization & Reporting:** Matplotlib, Seaborn, ggplot2, Quarto, LaTeX (Overleaf)
+- **Tools & Platforms:** Git/GitHub, Jupyter, Xcode, Bloomberg Terminal, Capital IQ, n8n
 
 ---
 ## 🌱 What I’m Working On
