@@ -9,6 +9,7 @@
 I’m a data scientist and aspiring ML/AI engineer passionate about **AI agents and generative intelligence**.
 
 A selection of my work in AI systems, machine learning, and applied data science.
+
 Full project list:
 🔗 https://srijith-reddy.github.io/srijith-reddy-portfolio/
 
