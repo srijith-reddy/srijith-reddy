@@ -8,51 +8,9 @@
 
 I’m a data scientist and aspiring ML/AI engineer passionate about **AI agents and generative intelligence**.
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 MIRA — Machine Intelligent Responsive Assistant
-(https://medium.com/@shrey.maramreddy/building-mira-my-voice-activated-multimodal-ai-assistant-from-scratch-604448979a1a)
-
-**MIRA** is a fully modular, voice-enabled **AI assistant** built for **real-time, multi-agent orchestration** and contextual reasoning.  
-
-Developed using **LangChain** and **LangGraph**, it coordinates intelligent agents for complex, multi-step automation such as:  
-
-- 🌐 **BrowserAgent** – performs trust-ranked, multimodal **live web extraction** using persistent Playwright contexts and concurrent scrapers.  
-  Captures full-page screenshots, normalizes numeric text, and summarizes dynamic web data (e.g., scores, headlines, or price movements) using **GPT-4o Vision**.  
-
-- 🗺️ **PlannerAgent** – acts as MIRA’s **contextual lifestyle engine**, discovering nearby or city-specific **restaurants, hikes, concerts, and events**.  
-  Supports geo-aware queries (“near me”, “this weekend”), time-sensitive expansions (“tonight”, “tomorrow”), and GPT-4o synthesis for concise city guides.  
-
-- 🛍️ **BuyingAgent** – specializes in **commerce and finance reasoning**, combining multi-engine search, trust-ranked link filtering, concurrent site scraping,  
-  and multimodal summarization. Autonomously compares **products, deals, and live stock data** using **GPT-4o-based extraction and vision fusion**.  
-
-- 🗓️ **CalendarAgent** – schedules upcoming events  
-- 📧 **GmailAgent** – reads, summarizes, and drafts contextual emails  
-- 🌦️ **WeatherAgent** – provides detailed, location-aware forecasts  
-- 🎟️ **BookingAgent** – automates ticket and flight lookups  
-- 🎵 **MusicAgent** & **MusicWorker** – enable autonomous music playback with async background control  
-- 💬 **WhatsAppAgent** – sends quick, context-aware messages through persistent browser sessions 
-
-Includes **wake-word activation (“Hey Mira”)**, **Cartesia TTS**, **Whisper STT**, and a **hybrid FAISS + SQLite memory system** for contextual recall.  
-Runs on a **persistent async event loop** with **multi-agent orchestration**, **domain-trust scoring**, and **vision-aware summarization** — enabling  
-**fully autonomous perception, reasoning, and task execution**, all built entirely from scratch.  
-
----
-
-### 📊 Quant Research Pipeline (Layered Workflow)
-- **6-Layer End-to-End Quant Pipeline** for systematic **equity alpha generation**.  
-- Ingests **OHLCV, options, fundamentals, and macro data** (via EODHD).  
-- Implements **WorldQuant 101 alphas**, volatility models, and **SHAP/IC-based pruning**.  
-- Trains **ElasticNet, Ridge, XGBoost, and LightGBM**, optimized via **Optuna**.  
-- Integrates **HMM regime detection** and **CVXPY portfolio optimization** for allocation strategies.
-
-### 🏠 Housing Price Prediction *(Class Competition Winner)*
-- Engineered **time-based bins, growth ratios, and spatial features** on a 600K+ property dataset.  
-- Tuned **LGBM/XGBoost** with **Optuna**  
-- Achieved **1st place** in a competitive university Kaggle-style challenge.  
-- Showcases strength in **feature engineering, model optimization, and data scalability**.
+A selection of my work in AI systems, machine learning, and applied data science.
+Full project list:
+🔗 https://srijith-reddy.github.io/srijith-reddy-portfolio/
 
 ---
 
