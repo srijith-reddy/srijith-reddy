@@ -35,7 +35,6 @@ Full project list:
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/saisrijith)  
-- [GitHub Projects](https://github.com/srijith-reddy)  
+- [LinkedIn](https://www.linkedin.com/in/saisrijith)   
 - Open to **AI/ML engineer, applied AI research, and data science opportunities**.
 ---
