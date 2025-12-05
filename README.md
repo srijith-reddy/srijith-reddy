@@ -8,10 +8,13 @@
 
 I’m a data scientist and aspiring ML/AI engineer passionate about **AI agents and generative intelligence**.
 
-A selection of my work in AI systems, machine learning, and applied data science.
+A selection of my work in AI systems, machine learning, and applied data science.  
 
-Full project list:
+Full project list:  
 🔗 https://srijith-reddy.github.io/srijith-reddy-portfolio/
+
+Medium Article — Building MIRA:  
+https://medium.com/@shrey.maramreddy/building-mira-my-voice-activated-multimodal-ai-assistant-from-scratch-604448979a1a
 
 ---
 
